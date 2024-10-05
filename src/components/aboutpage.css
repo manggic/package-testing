@@ -1,0 +1,17 @@
+
+
+.heading{
+  color: grey;
+  font-size: 30px;
+  text-decoration: dashed;
+  background-color: aqua;
+}
+
+/* .flex{
+  display: flex;
+} */
+
+.image{
+  height: 200px;
+  width: 200px;
+}
